@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="vamshi123" max_length="40" name="x_366627_sriinduit_vamshi123" type="collection">
+        <element label="tinku" max_length="100" name="tinku" reference="x_366627_sriinduit_abcd" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="linux book">37ce1d78db8633002b5861ca0b9619b6</sc_cat_item>
+        <sc_category display_value="books">3c7cd53cdb8633002b5861ca0b9619b2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 15:44:32</sys_created_on>
+        <sys_id>f04f15bcdb8633002b5861ca0b961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>books.linux book</sys_name>
+        <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
+        <sys_update_name>sc_cat_item_category_f04f15bcdb8633002b5861ca0b961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 15:44:32</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

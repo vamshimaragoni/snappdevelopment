@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="incidentlog" max_length="40" name="x_366627_sriinduit_incidentlog" sizeclass="6" type="collection">
+        <element choice="1" label="Abc" max_length="100" name="abc" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+            </choice>
+        </element>
+        <element choice="2" label="contact type2" mandatory="true" max_length="100" name="contact_type2" type="choice">
+            <choice/>
+        </element>
+        <element default="test default" label="SINDU short description" max_length="100" name="sindu_short_description" type="string"/>
+        <element default="default description" label="SRIINDUDesc" max_length="100" name="sriindudesc" type="string"/>
+        <element label="tin" max_length="32" name="tin" reference="alm_asset_ci_field_mapping" reference_qual="123TEXTQUERY321=gooo^EQ" reference_qual_condition="123TEXTQUERY321=gooo^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="retDate" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="reqDate" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="retDate" max_length="40" name="u_glide_date_time_4" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="reqDate" max_length="40" name="u_glide_date_time_5" type="glide_date_time"/>
+        <element choice="1" label="Vam" mandatory="true" max_length="100" name="vam" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" value="1"/>
+                <element inactive_on_update="false" label="2" value="2"/>
+            </choice>
+        </element>
+        <element choice="1" label="xyz" max_length="100" name="xyz" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

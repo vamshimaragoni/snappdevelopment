@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="abcd" label="Abcd" language="en" table="x_366627_sriinduit_incident1log">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>abcd</element>
+            <help/>
+            <hint/>
+            <label>Abcd</label>
+            <language>en</language>
+            <name>x_366627_sriinduit_incident1log</name>
+            <plural>Abcds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:53:31</sys_created_on>
+            <sys_id>53d9e654db8233002b5861ca0b961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Abcd</sys_name>
+            <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
+            <sys_update_name>sys_documentation_x_366627_sriinduit_incident1log_abcd_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:53:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

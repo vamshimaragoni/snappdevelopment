@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="incident1log" max_length="40" name="x_366627_sriinduit_incident1log" type="collection">
+        <element choice="1" label="Abcd" max_length="100" name="abcd" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="gm" value="a"/>
+            </choice>
+        </element>
+        <element choice="1" label="Incident Column Type" max_length="100" name="incident_column_type" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="xyz" max_length="100" name="xyz" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="phone no" value="phone no"/>
+            </choice>
+        </element>
+    </element>
+</database>
