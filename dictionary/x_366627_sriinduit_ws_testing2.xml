@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ws testing2" max_length="40" name="x_366627_sriinduit_ws_testing2" type="collection">
+        <element label="st des" max_length="40" name="st_des" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short descriptiom" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

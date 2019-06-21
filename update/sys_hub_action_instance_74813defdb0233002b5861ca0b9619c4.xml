@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="sindu flow designer">e6aaed2bdb0233002b5861ca0b961913</flow>
+        <order>4.1</order>
+        <parent_ui_id>efd17934-3f6b-4aeb-9814-9858cb2bb702</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:07:34</sys_created_on>
+        <sys_id>74813defdb0233002b5861ca0b9619c4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
+        <sys_update_name>sys_hub_action_instance_74813defdb0233002b5861ca0b9619c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:27:04</sys_updated_on>
+        <ui_id>1cc7f8e1-797a-41a9-8370-75544c2bebbe</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=74813defdb0233002b5861ca0b9619c4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>74813defdb0233002b5861ca0b9619c4</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:07:34</sys_created_on>
+        <sys_id>34813defdb0233002b5861ca0b9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:07:34</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=74813defdb0233002b5861ca0b9619c4"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>74813defdb0233002b5861ca0b9619c4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:07:34</sys_created_on>
+        <sys_id>fc813defdb0233002b5861ca0b9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:07:34</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{efd17934-3f6b-4aeb-9814-9858cb2bb702.item}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>74813defdb0233002b5861ca0b9619c4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:07:34</sys_created_on>
+        <sys_id>3c813defdb0233002b5861ca0b9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:07:34</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>74813defdb0233002b5861ca0b9619c4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:07:34</sys_created_on>
+        <sys_id>b0813defdb0233002b5861ca0b9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:07:34</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>assigned_to={{Updated_1.current.manager}}</value>
+    </sys_element_mapping>
+</record_update>

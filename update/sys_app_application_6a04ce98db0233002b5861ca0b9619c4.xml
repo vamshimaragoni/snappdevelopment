@@ -7,14 +7,14 @@
         <hint/>
         <name>incidentlog</name>
         <order>100</order>
-        <roles>x_366627_sriinduit.incidentlog_user</roles>
+        <roles/>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-11 05:08:15</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6a04ce98db0233002b5861ca0b9619c4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>incidentlog</sys_name>
         <sys_overrides/>
         <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
         <sys_update_name>sys_app_application_6a04ce98db0233002b5861ca0b9619c4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-11 05:08:15</sys_updated_on>
+        <sys_updated_on>2019-06-18 06:32:57</sys_updated_on>
         <title>incidentlog</title>
         <view_name/>
     </sys_app_application>

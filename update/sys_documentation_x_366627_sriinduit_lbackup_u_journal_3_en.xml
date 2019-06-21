@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_journal_3" label="tinku" language="en" table="x_366627_sriinduit_lbackup">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_journal_3</element>
+            <help/>
+            <hint/>
+            <label>tinku</label>
+            <language>en</language>
+            <name>x_366627_sriinduit_lbackup</name>
+            <plural>tinkus</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 16:31:18</sys_created_on>
+            <sys_id>a92dff9ddb02b3002b5861ca0b961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tinku</sys_name>
+            <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
+            <sys_update_name>sys_documentation_x_366627_sriinduit_lbackup_u_journal_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 16:31:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

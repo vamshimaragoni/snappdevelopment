@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="mapping">12ed4116db0237002b5861ca0b96195f</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+	// Add your code heregs.
+	if(gs.nil(source.u_email_address))
+		{
+			target.email = source.u_first_name + "." + source.u_last_name +"@test.com";
+		}
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-17 09:11:59</sys_created_on>
+        <sys_id>1574fddadb4237002b5861ca0b96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
+        <sys_update_name>sys_transform_script_1574fddadb4237002b5861ca0b96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-17 09:11:59</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+</record_update>

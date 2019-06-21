@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_4" label="king" language="en" table="x_366627_sriinduit_lbackup">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <help/>
+            <hint/>
+            <label>king</label>
+            <language>en</language>
+            <name>x_366627_sriinduit_lbackup</name>
+            <plural>kings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 16:34:00</sys_created_on>
+            <sys_id>41cd77dddb02b3002b5861ca0b96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>king</sys_name>
+            <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
+            <sys_update_name>sys_documentation_x_366627_sriinduit_lbackup_u_string_4_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 16:34:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

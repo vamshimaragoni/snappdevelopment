@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="incidentlog" max_length="40" name="x_366627_sriinduit_incidentlog" sizeclass="6" type="collection">
+    <element extends="task" label="incidentlog" max_length="40" name="x_366627_sriinduit_incidentlog" sizeclass="18" type="collection">
         <element choice="1" label="Abc" max_length="100" name="abc" type="choice">
             <choice>
                 <element inactive_on_update="false" label="email" value="email"/>
             </choice>
         </element>
-        <element choice="2" label="contact type2" mandatory="true" max_length="100" name="contact_type2" type="choice">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hardware" value="hw"/>
+                <element inactive_on_update="false" label="network" value="nw"/>
+                <element inactive_on_update="false" label="software" value="sw"/>
+            </choice>
+        </element>
+        <element choice="2" label="contact type2" max_length="100" name="contact_type2" type="choice">
             <choice/>
         </element>
         <element default="test default" label="SINDU short description" max_length="100" name="sindu_short_description" type="string"/>
@@ -17,7 +24,8 @@
         <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="retDate" max_length="40" name="u_glide_date_time_4" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="reqDate" max_length="40" name="u_glide_date_time_5" type="glide_date_time"/>
-        <element choice="1" label="Vam" mandatory="true" max_length="100" name="vam" type="choice">
+        <element label="New Reference" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <element choice="1" label="Vam" max_length="100" name="vam" type="choice">
             <choice>
                 <element inactive_on_update="false" label="1" value="1"/>
                 <element inactive_on_update="false" label="2" value="2"/>

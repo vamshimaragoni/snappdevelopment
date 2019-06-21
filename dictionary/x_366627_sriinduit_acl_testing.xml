@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="acl testing" max_length="40" name="x_366627_sriinduit_acl_testing" sizeclass="1" type="collection">
+        <element label="short des1" max_length="100" name="short_des1" type="string"/>
+    </element>
+</database>

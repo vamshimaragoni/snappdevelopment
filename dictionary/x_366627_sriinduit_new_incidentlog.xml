@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="new incidentlog" max_length="40" name="x_366627_sriinduit_new_incidentlog" type="collection">
+    <element extends="task" label="new incidentlog" max_length="40" name="x_366627_sriinduit_new_incidentlog" sizeclass="3" type="collection">
         <element label="abcs" max_length="100" name="abcs" type="string"/>
         <element label="abs" max_length="100" name="abs" reference="x_366627_sriinduit_qwe" type="string"/>
         <element choice="1" label="Asdfg" max_length="100" name="asdfg" type="choice">
             <choice>
                 <element inactive_on_update="false" label="new choice" value="new"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="category" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="hardware" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="rukku" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
         <element label="zxcvb" max_length="32" name="zxcvb" reference="alm_asset" reference_qual="asset_tagLIKEgoo^123TEXTQUERY321=jgdf^EQ" reference_qual_condition="asset_tagLIKEgoo^123TEXTQUERY321=jgdf^EQ" type="reference"/>

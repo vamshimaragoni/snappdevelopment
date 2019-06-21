@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>basic auth</name>
+        <password>fiyX5hTUBpeyKJJqcAvhxQ==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 05:48:33</sys_created_on>
+        <sys_id>08d957badb0233002b5861ca0b961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>basic auth</sys_name>
+        <sys_package display_value="SRIINDUITP" source="x_366627_sriinduit">e9dbf1d0db0233002b5861ca0b9619c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUITP">e9dbf1d0db0233002b5861ca0b9619c8</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_08d957badb0233002b5861ca0b961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 05:48:33</sys_updated_on>
+        <username>admin</username>
+    </sys_auth_profile_basic>
+</record_update>

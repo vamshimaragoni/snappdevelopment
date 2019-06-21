@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="lbackup" max_length="40" name="x_366627_sriinduit_lbackup" type="collection">
+        <element choice="1" label="se" max_length="40" name="se" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hw" value="xfgdr"/>
+            </choice>
+        </element>
         <element display="true" label="shortdes" max_length="1000" name="shortdes" type="string_full_utf8"/>
+        <element default="true" label="Acive" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="category" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="hardware" sequence="0" value="hardware"/>
+                <element inactive_on_update="false" label="software" sequence="1" value="software"/>
+                <element inactive_on_update="false" label="network" sequence="2" value="network"/>
+            </choice>
+        </element>
+        <element label="val" max_length="40" name="u_file_attachment_2" type="file_attachment"/>
+        <element label="active" max_length="40" name="u_integer_5" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="tinku" max_length="4000" name="u_journal_3" type="journal"/>
+        <element label="assignment group" max_length="32" name="u_reference_1" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="king" max_length="40" name="u_string_4" type="string"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
     </element>
 </database>

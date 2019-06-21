@@ -28,6 +28,34 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-11 08:18:14</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-15 09:32:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efd623addb4ab3002b5861ca0b961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366627_sriinduit_incidentlog" name="x_366627_sriinduit_incidentlog" sys_domain="global" view="Default view">a58f2a58db8233002b5861ca0b961951</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_366627_sriinduit_incidentlog" sys_domain="global" view="Default view">67d6af6ddb4ab3002b5861ca0b9619ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-15 09:32:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-15 09:32:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23d623addb4ab3002b5861ca0b96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366627_sriinduit_incidentlog" name="x_366627_sriinduit_incidentlog" sys_domain="global" view="Default view">a58f2a58db8233002b5861ca0b961951</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_366627_sriinduit_incidentlog" sys_domain="global" view="Default view">27d6af6ddb4ab3002b5861ca0b9619f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-15 09:32:26</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_366627_sriinduit_incidentlog</name>
             <roles/>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="update set" max_length="40" name="x_366627_sriinduit_update_set" type="collection">
+        <element label="des" max_length="40" name="des" type="string"/>
+    </element>
+</database>

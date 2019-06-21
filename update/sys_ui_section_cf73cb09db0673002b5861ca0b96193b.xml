@@ -4,13 +4,139 @@
             <element>shortdes</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 17:40:53</sys_created_on>
-            <sys_id>8f73cb09db0673002b5861ca0b961941</sys_id>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>9ea39c03dbc233002b5861ca0b961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 17:40:53</sys_updated_on>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>se</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>16a39c03dbc233002b5861ca0b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>96a39c03dbc233002b5861ca0b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_file_attachment_2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>1aa39c03dbc233002b5861ca0b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_journal_3</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>9aa39c03dbc233002b5861ca0b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>1ea39c03dbc233002b5861ca0b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_5</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>9ea39c03dbc233002b5861ca0b961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_1</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>12a39c03dbc233002b5861ca0b961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>92a39c03dbc233002b5861ca0b961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 10:00:33</sys_created_on>
+            <sys_id>16a39c03dbc233002b5861ca0b961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366627_sriinduit_lbackup" sys_domain="global" view="Default view">cf73cb09db0673002b5861ca0b96193b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 10:00:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
